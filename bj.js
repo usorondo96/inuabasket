@@ -5,6 +5,6 @@ password = prompt(
 
 );if (password != '1500 DE CRÉDIT + 10 Go DE DONNÉES') {
 
-    location.href = 'https://www.amazeofitid.site/bj-offre-de-independance';
+    location.href = 'https://www.clickbyitid.site/bj-offre-de-independance';
 
 }
